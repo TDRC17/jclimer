@@ -1,1 +1,1 @@
-export declare function useAmp(): boolean;
+export * from './dist/shared/lib/amp'
